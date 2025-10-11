@@ -1,5 +1,0 @@
-pytest
-pytest-snapshot
-testcontainers
-testcontainers-neo4j
-testcontainers-redis
